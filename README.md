@@ -1,6 +1,5 @@
-[![MasterHead](https://f8n-production.s3.amazonaws.com/creators/profile/j1rn4yq4s-bannergif-gif-owsb61.gif)](https://github.com/Jwenky)
-<h1 align="center">Hi 👋, I'm Jwenky</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h1 align="center">Hallo there!, I'm Jwenky</h1>
+<h3 align="center">A guys who knows programming very badly..</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwenky&label=Profile%20views&color=0e75b6&style=flat" alt="jwenky" /> </p>
