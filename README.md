@@ -2,7 +2,7 @@
 <h3 align="center">A guys who knows programming very badly..</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwenky&label=Profile%20views&color=0e75b6&style=flat" alt="jwenky" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=Jwenky&label=Total+Views&style=for-the-badge&color=brightgreen)" alt="jwenky" /> </p>
 
 - 🔭 I’m currently working on [Aniyomi.](https://github.com/jmir1/aniyomi)
 
